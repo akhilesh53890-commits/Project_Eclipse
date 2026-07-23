@@ -8,6 +8,7 @@ A psychological horror game developed in Unity.
 Project_Eclipse/
 │
 ├── Documentation/        # Game design documents, story outlines, character profiles, tasks
+│   ├── Core_Idea.docx / .md
 │   ├── Game_Design_Document.docx / .md
 │   ├── Story.docx / .md
 │   ├── Characters.docx / .md
